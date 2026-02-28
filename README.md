@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 mail - shubhdas.17.w@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Shubh21das/Shubh21das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
