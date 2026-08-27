@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shubh21das
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning SOC
+- 💞️ I’m looking to collaborate on SOC projects
 - 📫 mail - shubhdas.17.w@gmail.com
 
 <!---
